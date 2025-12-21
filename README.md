@@ -19,7 +19,6 @@ A full-stack e-commerce web application built with **Spring Boot**, **Thymeleaf*
 **Build Tool:** Maven
 
 ##  Setup & Run Locally
-
 ### Prerequisites
 - Java 17+
 - MySQL 8+
